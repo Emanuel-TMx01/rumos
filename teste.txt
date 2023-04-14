@@ -1,5 +1,6 @@
 id-emanuel
 <<<<<<< HEAD
+<<<<<<< HEAD
 14/04/2023
 
 id-ana
@@ -7,6 +8,9 @@ hora-20:48
 
 id-rui
 hora-21:00
+=======
+14/04/2023
+>>>>>>> parent of 94be6a7 (2nd version)
 =======
 14/04/2023
 >>>>>>> parent of 94be6a7 (2nd version)
